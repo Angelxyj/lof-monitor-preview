@@ -1,0 +1,804 @@
+{
+  "updated": "2026-06-14 13:53",
+  "premiumMap": {
+    "SZ164824": {
+      "est": 1.288,
+      "est_date": "2026-06-12",
+      "premium": -2.1,
+      "ref_premium": null
+    },
+    "SZ161127": {
+      "est": 1.795,
+      "est_date": "2026-06-12",
+      "premium": -1.77,
+      "ref_premium": null
+    },
+    "SZ160416": {
+      "est": 2.088,
+      "est_date": "2026-06-12",
+      "premium": -1.69,
+      "ref_premium": null
+    },
+    "SZ160719": {
+      "est": 1.897,
+      "est_date": "2026-06-12",
+      "premium": -1.66,
+      "ref_premium": null
+    },
+    "SZ162411": {
+      "est": 0.874,
+      "est_date": "2026-06-12",
+      "premium": -1.46,
+      "ref_premium": null
+    },
+    "SZ164701": {
+      "est": 1.65,
+      "est_date": "2026-06-12",
+      "premium": -1.45,
+      "ref_premium": null
+    },
+    "SZ165513": {
+      "est": 1.0,
+      "est_date": "2026-06-12",
+      "premium": -1.41,
+      "ref_premium": null
+    },
+    "SZ162415": {
+      "est": 2.879,
+      "est_date": "2026-06-12",
+      "premium": -1.38,
+      "ref_premium": null
+    },
+    "SZ162719": {
+      "est": 2.663,
+      "est_date": "2026-06-12",
+      "premium": -1.21,
+      "ref_premium": null
+    },
+    "SZ160140": {
+      "est": 1.444,
+      "est_date": "2026-06-12",
+      "premium": -1.2,
+      "ref_premium": null
+    },
+    "SZ160717": {
+      "est": 0.721,
+      "est_date": "2026-06-12",
+      "premium": -1.08,
+      "ref_premium": null
+    },
+    "SH501312": {
+      "est": 2.313,
+      "est_date": "2026-06-12",
+      "premium": -1.05,
+      "ref_premium": null
+    },
+    "SH501302": {
+      "est": 1.123,
+      "est_date": "2026-06-12",
+      "premium": -1.01,
+      "ref_premium": null
+    },
+    "SZ161126": {
+      "est": 1.883,
+      "est_date": "2026-06-12",
+      "premium": -1.01,
+      "ref_premium": null
+    },
+    "SZ160924": {
+      "est": 0.986,
+      "est_date": "2026-06-12",
+      "premium": -1.0,
+      "ref_premium": null
+    },
+    "SH501025": {
+      "est": 1.793,
+      "est_date": "2026-06-12",
+      "premium": -0.97,
+      "ref_premium": null
+    },
+    "SZ161116": {
+      "est": 1.573,
+      "est_date": "2026-06-12",
+      "premium": -0.95,
+      "ref_premium": null
+    },
+    "SZ161032": {
+      "est": 2.39,
+      "est_date": "2026-06-12",
+      "premium": -0.92,
+      "ref_premium": null
+    },
+    "SZ168204": {
+      "est": 2.21,
+      "est_date": "2026-06-12",
+      "premium": -0.9,
+      "ref_premium": null
+    },
+    "SZ161726": {
+      "est": 0.342,
+      "est_date": "2026-06-12",
+      "premium": -0.85,
+      "ref_premium": null
+    },
+    "SZ164906": {
+      "est": 0.956,
+      "est_date": "2026-06-12",
+      "premium": -0.8,
+      "ref_premium": null
+    },
+    "SZ163208": {
+      "est": 1.286,
+      "est_date": "2026-06-12",
+      "premium": -0.78,
+      "ref_premium": null
+    },
+    "SZ164705": {
+      "est": 1.111,
+      "est_date": "2026-06-12",
+      "premium": -0.7,
+      "ref_premium": null
+    },
+    "SZ161815": {
+      "est": 1.06,
+      "est_date": "2026-06-12",
+      "premium": -0.67,
+      "ref_premium": null
+    },
+    "SZ161831": {
+      "est": 0.727,
+      "est_date": "2026-06-12",
+      "premium": -0.59,
+      "ref_premium": null
+    },
+    "SZ161005": {
+      "est": 3.103,
+      "est_date": "2026-06-12",
+      "premium": -0.57,
+      "ref_premium": null
+    },
+    "SZ161812": {
+      "est": 1.468,
+      "est_date": "2026-06-12",
+      "premium": -0.54,
+      "ref_premium": null
+    },
+    "SZ163407": {
+      "est": 2.62,
+      "est_date": "2026-06-12",
+      "premium": -0.47,
+      "ref_premium": null
+    },
+    "SZ161124": {
+      "est": 0.969,
+      "est_date": "2026-06-12",
+      "premium": -0.41,
+      "ref_premium": null
+    },
+    "SZ163113": {
+      "est": 0.892,
+      "est_date": "2026-06-12",
+      "premium": -0.36,
+      "ref_premium": null
+    },
+    "SZ162412": {
+      "est": 0.524,
+      "est_date": "2026-06-12",
+      "premium": -0.34,
+      "ref_premium": null
+    },
+    "SH501043": {
+      "est": 1.635,
+      "est_date": "2026-06-12",
+      "premium": -0.29,
+      "ref_premium": null
+    },
+    "SZ167301": {
+      "est": 1.044,
+      "est_date": "2026-06-12",
+      "premium": -0.29,
+      "ref_premium": null
+    },
+    "SZ160639": {
+      "est": 0.845,
+      "est_date": "2026-06-12",
+      "premium": -0.21,
+      "ref_premium": null
+    },
+    "SZ160706": {
+      "est": 1.22,
+      "est_date": "2026-06-12",
+      "premium": -0.18,
+      "ref_premium": null
+    },
+    "SZ163109": {
+      "est": 0.822,
+      "est_date": "2026-06-12",
+      "premium": -0.17,
+      "ref_premium": null
+    },
+    "SZ160225": {
+      "est": 1.968,
+      "est_date": "2026-06-12",
+      "premium": -0.16,
+      "ref_premium": null
+    },
+    "SH501300": {
+      "est": 0.942,
+      "est_date": "2026-06-12",
+      "premium": -0.15,
+      "ref_premium": null
+    },
+    "SZ160632": {
+      "est": 0.268,
+      "est_date": "2026-06-12",
+      "premium": 0.0,
+      "ref_premium": null
+    },
+    "SZ161227": {
+      "est": 1.742,
+      "est_date": "2026-06-12",
+      "premium": -0.09,
+      "ref_premium": null
+    },
+    "SZ160216": {
+      "est": 0.688,
+      "est_date": "2026-06-12",
+      "premium": 0.0,
+      "ref_premium": null
+    },
+    "SZ161725": {
+      "est": 0.547,
+      "est_date": "2026-06-12",
+      "premium": 0.24,
+      "ref_premium": null
+    },
+    "SZ161125": {
+      "est": 3.071,
+      "est_date": "2026-06-12",
+      "premium": 0.35,
+      "ref_premium": null
+    },
+    "SH502000": {
+      "est": 2.098,
+      "est_date": "2026-06-12",
+      "premium": 0.77,
+      "ref_premium": null
+    },
+    "SZ161130": {
+      "est": 4.479,
+      "est_date": "2026-06-12",
+      "premium": 1.54,
+      "ref_premium": null
+    },
+    "SZ160644": {
+      "est": 2.067,
+      "est_date": "2026-06-12",
+      "premium": 3.21,
+      "ref_premium": null
+    },
+    "SZ161128": {
+      "est": 6.566,
+      "est_date": "2026-06-12",
+      "premium": 3.28,
+      "ref_premium": null
+    },
+    "SZ168401": {
+      "est": 7.141,
+      "est_date": "2026-06-12",
+      "premium": 3.32,
+      "ref_premium": null
+    },
+    "SZ161226": {
+      "est": 1.834,
+      "est_date": "2026-06-13",
+      "premium": 3.63,
+      "ref_premium": 1.63
+    },
+    "SZ160723": {
+      "est": 1.979,
+      "est_date": "2026-06-12",
+      "premium": 13.49,
+      "ref_premium": null
+    },
+    "SZ161129": {
+      "est": 1.648,
+      "est_date": "2026-06-12",
+      "premium": 13.8,
+      "ref_premium": null
+    },
+    "SH501018": {
+      "est": 1.727,
+      "est_date": "2026-06-12",
+      "premium": 17.4,
+      "ref_premium": null
+    },
+    "SH501225": {
+      "est": 3.307,
+      "est_date": "2026-06-12",
+      "premium": 34.76,
+      "ref_premium": null
+    }
+  },
+  "nameMap": {
+    "SH501300": "美元债LOF",
+    "SZ160140": "美国REIT精选LOF",
+    "SZ161126": "标普医疗保健LOF",
+    "SZ161128": "标普信息科技LOF",
+    "SZ162415": "美国消费LOF",
+    "SZ164906": "中概互联网LOF",
+    "SZ161127": "标普生物科技LOF",
+    "SZ162411": "华宝油气LOF",
+    "SZ160416": "石油基金LOF",
+    "SZ162719": "石油LOF",
+    "SZ161130": "纳斯达克100LOF",
+    "SZ161125": "标普500LOF",
+    "SH501225": "全球芯片LOF",
+    "SH501312": "海外科技LOF",
+    "SZ160644": "港美互联网LOF",
+    "SZ164824": "印度基金LOF",
+    "SZ163208": "全球油气能源LOF",
+    "SH501018": "南方原油LOF",
+    "SZ160723": "嘉实原油LOF",
+    "SZ161129": "原油LOF易方达",
+    "SZ160216": "国泰商品LOF",
+    "SZ161815": "抗通胀LOF",
+    "SZ160719": "嘉实黄金LOF",
+    "SZ161116": "黄金主题LOF",
+    "SZ164701": "黄金LOF",
+    "SZ165513": "中信保诚商品LOF",
+    "SH501025": "香港银行LOF",
+    "SZ161124": "港股小盘LOF",
+    "SZ160717": "H股LOF",
+    "SZ161831": "恒生国企LOF",
+    "SH501302": "恒生指数基金LOF",
+    "SZ160924": "恒生指数LOF",
+    "SZ164705": "恒生LOF",
+    "SH501043": "沪深300LOF",
+    "SZ160706": "沪深300LOF",
+    "SZ161005": "富国天惠LOF",
+    "SZ163407": "兴全沪深300LOF",
+    "SZ168401": "红土创新精选LOF",
+    "SZ161227": "国投深证100LOF",
+    "SZ161812": "深证100LOF",
+    "SZ161032": "煤炭龙头LOF",
+    "SZ168204": "煤炭LOF",
+    "SH502000": "500增强LOF",
+    "SZ160225": "新能源汽车LOF",
+    "SZ160632": "酒LOF",
+    "SZ160639": "高铁LOF",
+    "SZ161725": "白酒基金LOF",
+    "SZ161726": "生物医药LOF",
+    "SZ162412": "医疗基金LOF",
+    "SZ163109": "申万深成LOF",
+    "SZ163113": "申万证券LOF",
+    "SZ167301": "保险主题LOF",
+    "SZ161226": "国投白银LOF"
+  },
+  "quotaMap": {
+    "501018": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 0.0,
+      "big_quota": null
+    },
+    "501025": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "501043": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "501225": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 100.0,
+      "big_quota": null
+    },
+    "501300": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 50000000.0,
+      "big_quota": null
+    },
+    "501302": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "501312": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 100.0,
+      "big_quota": null
+    },
+    "502000": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160140": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160216": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 1000.0,
+      "big_quota": null
+    },
+    "160225": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160416": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 2.0,
+      "big_quota": null
+    },
+    "160632": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 200000.0,
+      "big_quota": null
+    },
+    "160639": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160644": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10000.0,
+      "big_quota": null
+    },
+    "160706": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160717": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "160719": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 5.0,
+      "big_quota": null
+    },
+    "160723": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 5.0,
+      "big_quota": null
+    },
+    "160924": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161005": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 20000.0,
+      "big_quota": null
+    },
+    "161032": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161116": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161124": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 3000.0,
+      "big_quota": null
+    },
+    "161125": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161126": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161127": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161128": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161129": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161130": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "161226": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 100.0,
+      "big_quota": null
+    },
+    "161227": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161725": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 500000.0,
+      "big_quota": null
+    },
+    "161726": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161812": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161815": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "161831": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "162411": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "162412": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "162415": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 1000.0,
+      "big_quota": null
+    },
+    "162719": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10.0,
+      "big_quota": null
+    },
+    "163109": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "163113": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "163208": {
+      "status": "closed",
+      "status_text": "暂停申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 500.0,
+      "big_quota": null
+    },
+    "163407": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 10000000.0,
+      "big_quota": null
+    },
+    "164701": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 500.0,
+      "big_quota": null
+    },
+    "164705": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "164824": {
+      "status": "limited",
+      "status_text": "限制大额",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": 500000.0,
+      "big_quota": null
+    },
+    "164906": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "165513": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "167301": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "168204": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    },
+    "168401": {
+      "status": "open",
+      "status_text": "正常申购",
+      "redeem_status": "open",
+      "redeem_status_text": "正常赎回",
+      "quota": null,
+      "big_quota": null
+    }
+  }
+}
